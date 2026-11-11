@@ -1,0 +1,15 @@
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\bin\Debug\net10.0\AtvHerancaPolimorfismo.exe
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\bin\Debug\net10.0\AtvHerancaPolimorfismo.deps.json
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\bin\Debug\net10.0\AtvHerancaPolimorfismo.runtimeconfig.json
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\bin\Debug\net10.0\AtvHerancaPolimorfismo.dll
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\bin\Debug\net10.0\AtvHerancaPolimorfismo.pdb
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.sourcelink.json
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.dll
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\refint\AtvHerancaPolimorfismo.dll
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.pdb
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\AtvHerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\56132300805\Desktop\dotnet\AtvHerancaPolimorfismo\obj\Debug\net10.0\ref\AtvHerancaPolimorfismo.dll
